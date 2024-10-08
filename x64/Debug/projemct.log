@@ -1,0 +1,16 @@
+﻿  try.cpp
+D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\DHT.h(242,28): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\DHT.h(227,7): message : while compiling class template member function 'void DHT<int>::updateRoutingTables(void)'
+D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\try.cpp(12,27): message : see the first reference to 'DHT<int>::updateRoutingTables' in 'main'
+D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\try.cpp(4,11): message : see reference to class template instantiation 'DHT<int>' being compiled
+D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\DHT.h(108,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\DHT.h(100,7): message : while compiling class template member function 'void DHT<int>::makeSpace(int)'
+D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\try.cpp(8,17): message : see the first reference to 'DHT<int>::makeSpace' in 'main'
+D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\DHT.h(48,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\DHT.h(47,2): message : while compiling class template member function 'DHT<int>::DHT(int)'
+D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\try.cpp(4,11): message : see the first reference to 'DHT<int>::DHT' in 'main'
+  projemct.vcxproj -> D:\OFFICE WORK\DATA STRUCTURES\PROJECT\projemct\x64\Debug\projemct.exe
